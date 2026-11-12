@@ -2,10 +2,10 @@
 
 ## 置顶项目
 
-### [bili easy · 仓颉 / 原生鸿蒙适配](https://github.com/skyline654654/BiliSail)
+### [开鸿哔哩 · 仓颉 / 原生鸿蒙适配](https://github.com/skyline654654/BiliSail)
 
 对标 [CKopoer/BiliSail](https://github.com/CKopoer/BiliSail)（Flutter + Dart 的第三方哔哩哔哩客户端）的
-**仓颉语言 + HarmonyOS 原生**适配分支，应用名 **bili easy**（包名 `dev.bilisail.client`）。
+**仓颉语言 + HarmonyOS 原生**适配分支，应用名 **开鸿哔哩**（包名 `dev.bilisail.client`）。
 在保留上游全部功能的前提下新增：
 
 | 能力 | 说明 |
